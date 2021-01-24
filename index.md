@@ -5,17 +5,17 @@ title: Anchor CMS
 
 # Lifting Anchor
 
-In the past few years the web has gone through a tonne of changes, from the way we write our code to the way we distribute it. Anchor was originally conceived in a much simpler time, when the web wasn't so saturated with new ways of managing your web content. We the maintainers of Anchor were unable to keep up with the rapid growth that surrounds this space, due to full-time commitments. Anchor was a side project that we tried to keep alive, for you, the community who may have used Anchor for you personal or professional projects.
+In the past few years the web has gone through a tonne of changes, from the way we write our code to the way we distribute it. Anchor was originally conceived in a much simpler time, when the web wasn't so saturated with new ways of managing your web content. We the maintainers of Anchor were unable to keep up with the rapid growth that surrounds this space, due to full-time commitments. Anchor was a side project that we tried to keep alive, for you, the community who may have used Anchor for your personal or professional projects.
 
-However, this past year has posed many challenges for us and we regrettably were unable to keep the commitment to this project. It became stale and unmaintained; which lead to a group decision that it would be best to archive the project. In an ideal world we would re-approach the problem that Anchor was trying to solve, adapting to the new ways we as developers build our websites. We started planning a replacement for Anchor but unfortunately we were unable to commit the time that such a project needed and new solutions quickly sprouted left, right and center; making such an endeavour less viable.
+However, this past year has posed many challenges for us and regrettably we were unable to keep the commitment to this project. It became stale and unmaintained; which lead to a group decision that it would be best to archive the project. In an ideal world we would re-approach the problem that Anchor was trying to solve, adapting to the new ways we as developers build our websites. We started planning a replacement for Anchor but unfortunately we were unable to commit the time that such a project needed and new solutions quickly sprouted left, right and center; making such an endeavour less viable.
 
 Anchor was a big part of our professional and personal lives, some of us used it as our way into the open-source world, some of us did it for fun as a side project and for others it was a way to share our personal ideas with a community.
 
 ![Screenshot of the Anchor CMS UI](/images/screenshot.png)
 
-### The Creation
+### The creation
 
-Back in ~2011, Charlotte (Creator) was producing a lot of entertainable content on the web, usually posted on Twitter or Dribbble under the alias "Visual Idiot" and as part of this she wanted a tailored solution to manage the content for her blog posts, each of which had it's own style and flare, unique to each post. She wanted a CMS which allowed her to easily implment custom styles and formats for each of her blog posts without "bolting on" a tonne of plugins. And so she built Anchor. Initially a private project, she then open-sourced it on Github where at the point of writing this it ammased ~3.4k stars. _Not too shabby for a small side project._
+Back in 2011, Charlotte (Creator) was producing a lot of entertainable content on the web, usually posted on Twitter or Dribbble under the alias "Visual Idiot" and as part of this she wanted a tailored solution to manage the content for her blog posts, each of which had it's own style and flair, unique to each post. She wanted a CMS which allowed her to easily implment custom styles and formats for each of her blog posts without "bolting on" a tonne of plugins. And so she built Anchor. Initially a private project, she then open-sourced it on GitHub where at the point of writing this has ammased over 3.4k stars. _Not too shabby for a small side project._
 
 Charlotte later left the project in the hands of the rest of us, to keep it alive and to maintain it whilst she continued with other endeavours and projects.
 
