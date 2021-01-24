@@ -1,0 +1,80 @@
+# Excluded files
+exclude:
+- README.md
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- .jekyll-cache
+
+# Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+# Gem settings
+paginate: 8 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: AnchorCMS # jekyll-seo-tag > Owners twitter username
+social: # jekyll-seo-tag > social overrides
+  name: Anchor CMS # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/AnchorCMS
+    - https://www.facebook.com/AnchorCMS
+    - https://github.com/AnchorCMS
+
+# SCSS
+sass:
+  style: :compressed
+
+# Permalinks
+permalink: '/posts/:slug/'
+excerpt_separator: <!-- more -->
+jekyll-mentions: https://twitter.com
+
+# Site info
+url: "/docs/"
+title: "Archived"
+name: "Anchor CMS"
+description: "Help on how to use Anchor"
+avatar: "https://avatars1.githubusercontent.com/u/1433533?s=300"
+repository: https://github.com/anchorcms/anchorcms.github.io
+download_link: "https://github.com/anchorcms/anchor-cms/releases"
+
+# Networks
+networks:
+  Twitter: http://twitter.com/anchorcms
+  GitHub: http://github.com/anchorcms
+
+# Metadata
+meta:
+  twitter: anchorcms
+  facebook: anchorcms
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      is_page: true
+      layout: page
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
+      layout: post
+      icon: article

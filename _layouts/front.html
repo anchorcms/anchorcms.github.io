@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<main class="front">
+	<article class="article container">
+		<div class="row">
+			<div class="span-12 content">
+				{{ content }}
+			</div>
+		</div>
+	</article>
+</main>
+<div class="main team">
+	<ul class="container">
+		{% for person in site.data.team %}
+			<li>
+				<img src="{{ person.image }}" alt="Photo of {{ person.name }}">
+				<div>
+					<h3>{{ person.name }}</h3>
+					<p>{{ person.subtitle }}</p>
+					<a href="{{ person.url }}">More about {{ person.name }}</a>
+				</div>
+			</li>
+		{% endfor %}
+	</ul>
+</div>

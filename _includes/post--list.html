@@ -1,0 +1,14 @@
+{% if paginator.posts %}
+  <ul class="posts">
+    {% for page in paginator.posts %}
+      <li>
+        <article class="article">
+          <h2 class="h1"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+          {% assign date_format = site.date_format | default: "%d %b %Y" %}
+          <time datetime="{{ page.date | date_to_xmlschema }}" class="time">Posted {{ page.date | date: date_format }}</time>
+          {{ page.excerpt | markdownify | truncatewords: 60 }}
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

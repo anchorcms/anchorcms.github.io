@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="container name">
+	<span class="h1" itemprop="name">Blog</span>
+</div>
+
+<main class="main post">
+	<article class="container article">
+		{% assign date_format = site.date_format | default: "%d %b %Y" %}
+		<time datetime="{{ page.date | date_to_xmlschema }}" class="time">Posted {{ page.date | date: date_format }}</time>
+		{{ content }}
+	</article>
+</main>
