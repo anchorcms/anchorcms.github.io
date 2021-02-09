@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Anchor CMS
+title: Lifting Anchor
 ---
 
 # Lifting Anchor
