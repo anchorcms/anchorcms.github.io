@@ -15,7 +15,7 @@ Anchor was a big part of our professional and personal lives, some of us used it
 
 ### The creation
 
-Back in 2011, Charlotte (Creator) was producing a lot of entertainable content on the web, usually posted on Twitter or Dribbble under the alias "Visual Idiot" and as part of this she wanted a tailored solution to manage the content for her blog posts, each of which had it's own style and flair, unique to each post. She wanted a CMS which allowed her to easily implment custom styles and formats for each of her blog posts without "bolting on" a tonne of plugins. And so she built Anchor. Initially a private project, she then open-sourced it on GitHub where at the point of writing this has ammased over 3.4k stars. _Not too shabby for a small side project._
+Back in 2011, Charlotte (Creator) was producing a lot of entertainable content on the web, usually posted on Twitter or Dribbble under the alias "Visual Idiot" and as part of this she wanted a tailored solution to manage the content for her blog posts, each of which had it's own style and flair, unique to each post. She wanted a CMS which allowed her to easily implment custom styles and formats for each of her blog posts without "bolting on" a tonne of plugins. And so she built Anchor. Initially a private project, she then open-sourced it on GitHub where at the point of writing this has amassed over 3.4k stars. _Not too shabby for a small side project._
 
 Charlotte later left the project in the hands of the rest of us, to keep it alive and to maintain it whilst she continued with other endeavours and projects.
 
