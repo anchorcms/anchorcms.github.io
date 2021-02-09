@@ -43,8 +43,8 @@ excerpt_separator: <!-- more -->
 jekyll-mentions: https://twitter.com
 
 # Site info
-url: "/docs/"
-title: "Archived"
+url: "https://anchorcms.com/"
+title: "Anchor CMS"
 name: "Anchor CMS"
 description: "Help on how to use Anchor"
 avatar: "https://avatars1.githubusercontent.com/u/1433533?s=300"
