@@ -33,7 +33,7 @@ So as a thank you to her, we wanted to keep this this project "In the family" an
 
 If you were inspired by Anchor, Charlotte or made good use of the project, we'd appreciate it if you were able to donate a small amount to her favourite charity. :)
 
-<a class="button" style="margin: 0px !important;" target="_blank" rel="noopener noreferrer" href="https://github.com/anchorcms/anchor-cms/releases">Donate</a>
+<a class="button" style="margin: 0px !important;" target="_blank" rel="noopener noreferrer" href="https://www.hearingdogs.org.uk/donate">Donate</a>
 <br/>
 
 Thank your for your support over the years, the Anchor CMS team ⚓️💖
