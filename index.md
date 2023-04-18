@@ -29,7 +29,7 @@ We have had some of you offer to take over maintaining the project, which we lov
 
 In April of 2020 Charlotte passed away. Amongst a challenging year, this was a hard time for us all. She was a great friend, a talented designer, developer and an all round inspiration. This project wouldn't have been possible without her. We wouldn't have met each other without her and some of us may not have been so fortunate in our careers without her.
 
-So as a thank you to her, we wanted to keep this this project "In the family" and use the success of Anchor to help causes that most mattered to her.
+So as a thank you to her, we wanted to keep this project "In the family" and use the success of Anchor to help causes that most mattered to her.
 
 If you were inspired by Anchor, Charlotte or made good use of the project, we'd appreciate it if you were able to donate a small amount to her favourite charity. :)
 
